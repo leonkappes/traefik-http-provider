@@ -1,0 +1,10 @@
+{
+    "test": {
+        "loadBalancer": {
+            "servers": [
+                {"url": "https://assad.de"},
+                {"url": "https://assad.com"}
+            ]
+        }
+    }
+}

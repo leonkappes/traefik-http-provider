@@ -1,0 +1,10 @@
+{
+    "test": {
+        "rule": "Host(`root.kappes.space`)",
+        "service": "test",
+        "middlewares": [
+            "test",
+            "sadasd"
+        ]
+    }
+}

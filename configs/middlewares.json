@@ -1,0 +1,14 @@
+{
+    "secure":{
+        "headers": {
+            "frameDeny": false
+        }
+    },
+    "auth": {
+        "basicAuth": {
+            "users": [
+                "admin:asdkjashdjkashdjkashd21312"
+            ]
+        }
+    }
+}
